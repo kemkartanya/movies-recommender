@@ -4,4 +4,4 @@ content based Movie Recommender
 
 Tech Stack: Python, ML  
 
-<image src='./app-image' />
+<image src='./app_image' />
